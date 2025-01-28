@@ -59,7 +59,7 @@ python visualize.py
 
 
 
-| Metric                   | Value (Epoch)  |
+| Metric                   | Value  |
 |--------------------------|----------------|
 | **Loss** | 0.0027 |
 | **AP** | 1.0000 |
