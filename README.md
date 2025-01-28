@@ -57,10 +57,15 @@ python visualize.py
 ```
 ## Results
 
-The training metrics are saved in `training_metrics.csv`. Below are some key results:
+
 
 | Metric                   | Value (Epoch)  |
 |--------------------------|----------------|
-| **Loss** | 0.015597 (100) |
-| **mIoU** | 0.823719 (92) |
-| **Accuracy** | 0.991696 (97) |
+| **Loss** | 0.0027 |
+| **mIoU** | 1.0000 |
+| **Accuracy** | 1.0000 |
+
+  <img src="visualizations/output.png" height="70%" width="70%"
+        style="object-fit:contain"
+    />
+
