@@ -55,3 +55,12 @@ To visualize the keypoints, run:
 ```bash
 python visualize.py
 ```
+## Results
+
+The training metrics are saved in `training_metrics.csv`. Below are some key results:
+
+| Metric                   | Value (Epoch)  |
+|--------------------------|----------------|
+| **Loss** | 0.015597 (100) |
+| **mIoU** | 0.823719 (92) |
+| **Accuracy** | 0.991696 (97) |
