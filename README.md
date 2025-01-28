@@ -62,8 +62,8 @@ python visualize.py
 | Metric                   | Value (Epoch)  |
 |--------------------------|----------------|
 | **Loss** | 0.0027 |
-| **mIoU** | 1.0000 |
-| **Accuracy** | 1.0000 |
+| **AP** | 1.0000 |
+| **AR** | 1.0000 |
 
   <img src="visualizations/output.png" height="70%" width="70%"
         style="object-fit:contain"
