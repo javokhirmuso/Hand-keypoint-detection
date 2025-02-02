@@ -65,6 +65,7 @@ python visualize.py
 | **AP** | 1.0000 |
 | **AR** | 1.0000 |
 
+## Samples
   <img src="visualizations/output.png" height="70%" width="70%"
         style="object-fit:contain"
     />
